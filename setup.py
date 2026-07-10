@@ -14,7 +14,7 @@ setup(
     install_requires=["setuptools", "numpy"],
     zip_safe=True,
     maintainer="Dani",
-    maintainer_email="dani@example.com",
+    maintainer_email="202521830@my.ipleiria.pt",
     description="Acceleration planner Lart",
     license="Apache-2.0",
     tests_require=["pytest"],
